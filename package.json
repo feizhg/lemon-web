@@ -1,0 +1,21 @@
+{
+    "name": "lemon-web",
+    "version": "1.0.0",
+    "description": "柠檬前台",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "gulp"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/feizhg/lemon-web.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/feizhg/lemon-web/issues"
+    },
+    "homepage": "https://github.com/feizhg/lemon-web#readme"
+}
